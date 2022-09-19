@@ -16,6 +16,7 @@
 		9AC709B028D867520074DE7F /* DemoGitHubProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC709AF28D867520074DE7F /* DemoGitHubProjectTests.swift */; };
 		9AC709BA28D867520074DE7F /* DemoGitHubProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC709B928D867520074DE7F /* DemoGitHubProjectUITests.swift */; };
 		9AC709BC28D867520074DE7F /* DemoGitHubProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC709BB28D867520074DE7F /* DemoGitHubProjectUITestsLaunchTests.swift */; };
+		9AC709CB28D877E10074DE7F /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC709CA28D877E10074DE7F /* testFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9AC709B528D867520074DE7F /* DemoGitHubProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoGitHubProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC709B928D867520074DE7F /* DemoGitHubProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoGitHubProjectUITests.swift; sourceTree = "<group>"; };
 		9AC709BB28D867520074DE7F /* DemoGitHubProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoGitHubProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9AC709CA28D877E10074DE7F /* testFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9AC709A128D867510074DE7F /* Assets.xcassets */,
 				9AC709A328D867510074DE7F /* LaunchScreen.storyboard */,
 				9AC709A628D867510074DE7F /* Info.plist */,
+				9AC709CA28D877E10074DE7F /* testFile.swift */,
 			);
 			path = DemoGitHubProject;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9AC7099D28D867500074DE7F /* ViewController.swift in Sources */,
+				9AC709CB28D877E10074DE7F /* testFile.swift in Sources */,
 				9AC7099928D867500074DE7F /* AppDelegate.swift in Sources */,
 				9AC7099B28D867500074DE7F /* SceneDelegate.swift in Sources */,
 			);
